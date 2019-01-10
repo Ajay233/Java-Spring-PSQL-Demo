@@ -1,2 +1,2 @@
-# Demo app using Java, Speing and PostgreSQL
+# Demo app using Java, Spring and PostgreSQL
 
